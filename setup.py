@@ -163,7 +163,7 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    long_description=read("README.md").decode('utf-8'),
+    long_description=read("README.md"),
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license="LICENSE.txt",
